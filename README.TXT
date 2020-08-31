@@ -1,6 +1,5 @@
 Tasmanian Strategical
 Copyright (C) 1993, 1994, 2019 Laurence Maar
-laurencemaar@gmail.com
 https://www.facebook.com/laurencemaar/
 https://www.linkedin.com/in/laurencemaar/
 https://github.com/laurencemaar/
@@ -49,8 +48,8 @@ Tasmanian Strategical
 
 	TAZ      DOC        30,608 Sysop Documentation
 	TAZ      LIC         4,879 Sysop License
-	TAZ      ORD         5,964 Order Form, English & Fran‡ais
-	ORDER    FRM         5,964 Order Form, English & Fran‡ais
+	TAZ      ORD         5,964 Order Form, English & Franâ€¡ais
+	ORDER    FRM         5,964 Order Form, English & Franâ€¡ais
 	README   TXT           730 General Reference File
 
 	FOSSIL   DOC         3,180 Fossil Driver Information
